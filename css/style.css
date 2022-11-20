@@ -321,7 +321,6 @@ ul {
 
 
 /* Services styles */
-
 .services-list {
   display: flex;
   margin-left: -30px;
@@ -336,8 +335,8 @@ ul {
   margin-bottom: 50px;
 }
 
-/* Team styles */
 
+/* Team styles */
 .section-team {
   background-color: var(--team-bg-color);
 }
@@ -425,7 +424,6 @@ ul {
 
 
 /* Clients */
-
 .clients-list {
   display: flex;
   justify-content: center;
